@@ -1,0 +1,3 @@
+First compile the Main class: javac Main.java
+Then you can run the program by providing a file as an argument: java Main <your_file>
+For example: java Main simp.smt2
